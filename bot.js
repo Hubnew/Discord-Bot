@@ -35,4 +35,4 @@ client.events = new Discord.Collection();
 
 
 
-client.login('OTA5ODI1NTQ4ODQ1NDYxNTU0.YZJ7Eg.2HPlJ1VtdOou24Zo_604x3zhtvk');
+client.login('');
